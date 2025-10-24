@@ -35,7 +35,7 @@ Quick reference answers for questions in the audio programming tutorial.
 - **Small window** → high time resolution, low frequency resolution
 - **Cannot optimize both simultaneously**
 
-For speech, we choose a compromise (typically `n_fft=1024`).
+For speech, we choose a compromise (typically `n_fft=1024 or 2048`).
 
 ---
 
