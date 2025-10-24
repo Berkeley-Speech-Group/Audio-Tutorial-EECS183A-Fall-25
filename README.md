@@ -125,7 +125,7 @@ Example: `hop_length=2048` at 16 kHz = 128 ms per frame = way too coarse!
 
 **Q3: Can you hear the difference between original and reconstructed audio?**
 
-**A:** **Encourage students to listen and reflect**:
+**A:** 
 - Usually **very difficult to tell apart**, especially for speech
 - Might notice subtle differences in **very quiet backgrounds** or **music texture**
 - Proves EnCodec is an excellent compressor (320x compression!)
